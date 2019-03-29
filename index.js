@@ -14,8 +14,7 @@ setInterval(() => {
 const Discord = require("discord.js");
 var client = new Discord.Client;
 var bot = new Discord.Client;
-client.login("NDcyMzI5MDQ3MDkxNzA3OTE1.D0mBMg.VqCiwDRCmpHVMBSwm1QkezoCeno
-",);
+client.login("NDY5NDMyMTAzNDU3NzgzODA5.D0xupw.RmC60gD60hE8vkeLpH9Yt5xb-5A",);
 bot.login("NTYxMDc2NTg1MzE5NDk3NzI4.D397Vw.JYJQOv5ZVwQp_YZdt8DjLO5pQlk",);
 function changing_status() {
     let status = ['Loco !']
@@ -36,7 +35,7 @@ bot.on("ready", () => {
 /** @type {!Array} */
 
 /** @type {!Array} */
-var lochannels = ["557439769106448406","557601050190675973","557811124112982016","551431424906100745","553829751073013761","557439769106448406","560779699828293635"];
+var lochannels = ["557439769106448406","557601050190675973","557811124112982016","551431424906100745","557917899881447463","557439769106448406","560779699828293635"];
 /** @type {!Array} */
 
 /** @type {!Array} */
@@ -44,7 +43,7 @@ var bbchannels = ["560779699828293635","557439829218951168"];
 /** @type {!Array} */
 
 /** @type {string} */
-var outputchannel = "520610566545342466";
+var outputchannel = "557917899881447463";
 /**
  * @param {?} context
  * @param {?} xslNode
