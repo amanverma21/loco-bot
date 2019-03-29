@@ -43,7 +43,7 @@ var bbchannels = ["560779699828293635","557439829218951168"];
 /** @type {!Array} */
 
 /** @type {string} */
-var outputchannel = "557917899881447463";
+var outputchannel = "520610566545342466";
 /**
  * @param {?} context
  * @param {?} xslNode
