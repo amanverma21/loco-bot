@@ -14,7 +14,8 @@ setInterval(() => {
 const Discord = require("discord.js");
 var client = new Discord.Client;
 var bot = new Discord.Client;
-client.login("NDY5NDMyMTAzNDU3NzgzODA5.D0xupw.RmC60gD60hE8vkeLpH9Yt5xb-5A",);
+client.login("NDcyMzI5MDQ3MDkxNzA3OTE1.D0mBMg.VqCiwDRCmpHVMBSwm1QkezoCeno
+",);
 bot.login("NTYxMDc2NTg1MzE5NDk3NzI4.D397Vw.JYJQOv5ZVwQp_YZdt8DjLO5pQlk",);
 function changing_status() {
     let status = ['Loco !']
