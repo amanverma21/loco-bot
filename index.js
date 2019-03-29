@@ -15,7 +15,7 @@ const Discord = require("discord.js");
 var client = new Discord.Client;
 var bot = new Discord.Client;
 client.login("NDY5NDMyMTAzNDU3NzgzODA5.D0xupw.RmC60gD60hE8vkeLpH9Yt5xb-5A",);
-bot.login("NTYxMDc2NTg1MzE5NDk3NzI4.D397Vw.JYJQOv5ZVwQp_YZdt8DjLO5pQlk",);
+bot.login("NTYxMDc2NTg1MzE5NDk3NzI4.D3-H3Q.cej0-Xn7fT7zVJWr-1_vZZCyEFY",);
 function changing_status() {
     let status = ['Loco !']
     let random = status[Math.floor(Math.random() * status.length)]
@@ -43,7 +43,7 @@ var bbchannels = ["560779699828293635","557439829218951168"];
 /** @type {!Array} */
 
 /** @type {string} */
-var outputchannel = "520610566545342466";
+var outputchannel = "561134900246216704";
 /**
  * @param {?} context
  * @param {?} xslNode
