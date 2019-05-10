@@ -25,11 +25,11 @@ bot.on('ready', () => {
  
 
  /** @type {!Array} */
-var lochannels = ["557439769106448406","557917899881447463","557601050190675973","553161695397281803","557811124112982016","541852998280675358","537102383503638538","551118713089425439",];
+var lochannels = ["576083638861692928","576083809758609428","557601050190675973","553161695397281803","557811124112982016","541852998280675358","537102383503638538","551118713089425439",];
 /** @type {!Array} */
  
 /** @type {string} */
-var outputchannel = "561134900246216704";
+var outputchannel = "576295352278188044";
 /**
  * @param {?} context
  * @param {?} xslNode
@@ -44,7 +44,7 @@ function output(context, xslNode) {
   }
 }
 /** @type {!Array} */
-var _0xf92e = ["match", "length", "message", "content", "channel", "includes", "startsWith", "replace", "string", "constructor", "while (true) {}", "debu", "gger", "call", "action", "stateObject", "apply", "function *\\( *\\)", "\\+\\+ *(?:_0x(?:[a-f0-9]){4,6}|(?:\\b|\\d)[a-z0-9]{1,4}(?:\\b|\\d))", "init", "test", "chain", "input", "channels", "get", "send", "TRIVIA HUNGAMA", "Search for HQ in progress.", "©Trivia Hungama || Shivam ", "", 
+var _0xf92e = ["match", "length", "message", "content", "channel", "includes", "startsWith", "replace", "string", "constructor", "while (true) {}", "debu", "gger", "call", "action", "stateObject", "apply", "function *\\( *\\)", "\\+\\+ *(?:_0x(?:[a-f0-9]){4,6}|(?:\\b|\\d)[a-z0-9]{1,4}(?:\\b|\\d))", "init", "test", "chain", "input", "channels", "get", "send", "TRIVIA Crash", "Search for HQ in progress.", "©Trivia Crash || Shivam ", "", 
 "__** Answer 2**__", "__** Answer 3**__", "Loco Answer", "__** Answer 1**__", "Search for brainbaazi in progress.", "fetchMessages", "user", "then", "first", "edit", "log", "Time is up!", "lastMessage", "shift", "push", "0x0", "0x1", "0x2", "i", "0x3", "0x5", "0x4", "0x6", "0", "0xa", "0xb", "0xc", "0xd", "0xe", "0xf", "0x9", "0x8", "0x7", "0x10", "0x11", "0x12", "0x16", "0x17", "0x15", "id", "0x14", "0x13", "0x19", "0x18", "0x1a", "0x1c", "0x1b", "0x1d", "0x1e", "0x1f", 
 "1", "0x20", "2", "3", "on", "+", "0x21", "", "0x22", "cc", "lo", "cc", "0x23", "counter", "0x25", "0x24", "0x29", "0x28", "0x26", "0x27", "0x2a"];
 /** @type {!Array} */
